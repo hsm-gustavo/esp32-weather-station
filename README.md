@@ -16,7 +16,7 @@ Segue a lista de pacotes instalados para o funcionamento do ESP32 (não sabemos 
 - [Driver CP210x](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers) (Em alguns computadores, o ESP32 não é reconhecido quando conectado. Em nossos testes, o driver CP210x resolveu o problema)
 - [Espressif Arduino Core](https://espressif.github.io/arduino-esp32/package_esp32_index.json) (Instala o suporte ao ESP32 na IDE do Arduino e algumas bibliotecas úteis)
 
-Os seguintes são bibliotecas necessárias para a utilazação do código arduino utilizado:
+Os seguintes são bibliotecas necessárias para a utilização do código arduino utilizado:
 - DHT sensor library (Biblioteca para o sensor DHT11 que pode ser instalada na IDE do Arduino)
 - Adafruit Unified Sensor (Dependência da biblioteca do sensor DHT11 que pode ser instalada na IDE do Arduino)
 - ArduinoJson (Biblioteca para manipulação de JSON que pode ser instalada na IDE do Arduino)
