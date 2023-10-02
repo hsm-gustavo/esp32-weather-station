@@ -7,9 +7,9 @@
 #define DHTTYPE DHT11
 
 DHT dht(DHTPIN, DHTTYPE);
-const char* ssid = "Veroncio_wifi";
-const char* password = "28deoutubro";
-const char* apiEndpoint = "http://192.168.10.114:5000/data";
+const char* ssid = "your wifi ssid";
+const char* password = "your wifi password";
+const char* apiEndpoint = "your api endpoint";
 
 
 void setup() {
